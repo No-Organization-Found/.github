@@ -2,10 +2,25 @@
 
 🙋‍♀️ A short introduction:
 This is [No Organization Found](https://github.com/No-Organization-Found/) and we are a small group of people who enjoy scripting and modifying.
+We can do almost anything when it comes to our skills, as we are a collective of amazing people with diffrent knowledge and skills when it comes to scripting.
 
-We will do:
-* [FiveM](https://fivem.net)
-* [XenForo](https://xenforo.com)
+
+
+### Doing
+Main:
+*	[FiveM](https://fivem.net)
+*	[XenForo](https://xenforo.com)
+
+
+
+### Tools
+Bellow you will find a list of tools we like and comes in handy.
+*	[Sumblime Text](https://www.sublimetext.com/)
+*	[Notepad++](https://notepad-plus-plus.org/)
+
+*	[Visual Studio](https://visualstudio.microsoft.com/)
+*	[Visual Studio Code](https://code.visualstudio.com/)
+
 
 <!--
 
