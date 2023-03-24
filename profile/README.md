@@ -1,10 +1,16 @@
 ## Hi there 👋
 
+🙋‍♀️ A short introduction:
+This is [No Organization Found](https://github.com/No-Organization-Found/) and we are a small group of people who enjoy scripting and modifying.
+
+We will do:
+* [FiveM](https://fivem.net)
+* [XenForo](https://xenforo.com)
+
 <!--
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
