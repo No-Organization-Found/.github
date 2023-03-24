@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🙋‍♀️ A short introduction:
-This is [No Organization Found](https://github.com/No-Organization-Found/) and we are a small group of people who enjoy scripting and modifying.
+This is [No Organization Found](https://No-Organization-Found.com) and we are a small group of people who enjoy scripting and modifying.
 We can do almost anything when it comes to our skills, as we are a collective of amazing people with diffrent knowledge and skills when it comes to scripting.
 
 
